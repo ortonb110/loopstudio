@@ -9,4 +9,12 @@
     font-size: 62.5%;
     font-family: "Josefin Sans", sans-serif;
   }
+
+  
+}
+
+@layer utilities {
+  .list-items {
+    @apply md:after:content-[''] md:hover:after:block md:hover:after:absolute md:after:w-[2.4rem] md:after:border-b-2 md:after:pt-[8px] md:after:right-[50%] md:after:translate-x-[50%] relative after:transition-all ease-in-out duration-300
+  }
 }

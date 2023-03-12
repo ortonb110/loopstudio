@@ -10,8 +10,9 @@ module.exports = {
         veryDarkGray: "hsl(0, 0%, 41%)"
       },
       backgroundImage: {
-        hero: "url('/src/Assets/images/mobile/hero.jpg)",
-        heroDesktop : "url('/src/Assets/images/desktop/image-hero.jpg')"
+        
+        heroMobile : "url('/src/Assets/images/mobile/hero.jpg')",
+        heroDesktop : "url('/src/Assets/images/desktop/image-hero.jpg')",
       }
     },
   },
