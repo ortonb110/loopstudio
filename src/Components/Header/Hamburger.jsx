@@ -7,12 +7,12 @@ const Hamburger = (props) => {
             <button
             type="button"
             aria-label="Open Menu"
-            aria-pressed= "false"
-            
-            className={`flex flex-col gap-[5px] md:hidden `}
+            aria-pressed= {props.openMenu}
+            onClick={props.openMenuHandler}
+            className={`flex flex-col gap-[5px] md:hidden z-10`}
             >
                 <span className="inline-block w-[24px] h-[2px] bg-white" aria-hidden="true"></span>
-                <span className="inline-block w-[24px] h-[2px] bg-white" aria-hidden="true"></span>
+                <span className={`inline-block w-[24px] h-[2px] transition-all ease-in-out duration-200 bg-white ${props.openMenu && "translate-x-2"}`} aria-hidden="true"></span>
                 <span className="inline-block w-[24px] h-[2px] bg-white" aria-hidden="true"></span>
                 
                 

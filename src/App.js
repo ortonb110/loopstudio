@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Header from "./Components/Header/Header";
+import Home from "./Components/Home";
 
 
 
@@ -7,9 +7,8 @@ import Header from "./Components/Header/Header";
 
 function App() {
   return (
-    
       <Fragment>
-        <Header/>
+        <Home/>
       </Fragment>
   );
 }

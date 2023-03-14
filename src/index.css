@@ -17,4 +17,15 @@
   .list-items {
     @apply md:after:content-[''] md:hover:after:block md:hover:after:absolute md:after:w-[2.4rem] md:after:border-b-2 md:after:pt-[8px] md:after:right-[50%] md:after:translate-x-[50%] relative after:transition-all ease-in-out duration-300
   }
+
+  .navbar-position {
+    @apply fixed top-0 right-0 w-full md:w-fit md:static md:translate-x-0 h-screen md:h-fit bg-black md:bg-inherit
+  }
+}
+
+@layer components {
+  body.lock-scroll {
+    overflow: hidden;
+    height: 100vh;
+  }
 }
