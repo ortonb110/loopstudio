@@ -20,6 +20,10 @@ const Main = () => {
                     </div>
                 </div>
            </article>
+           <section>
+                <h3>our creations</h3>
+                
+           </section>
         </main>
     )
 }
