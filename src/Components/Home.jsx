@@ -1,14 +1,16 @@
-import React, { Fragment } from 'react'
-import Header from './Header/Header'
-import Main from './Main/Main'
+import React, { Fragment } from "react";
+import Header from "./Header/Header";
+import Main from "./Main/Main";
+import Footer from "./Footer/Footer";
 
 function Home() {
   return (
     <Fragment>
-        <Header/>
-        <Main/>
+      <Header />
+      <Main />
+      <Footer/>
     </Fragment>
-  )
+  );
 }
 
-export default Home
+export default Home;

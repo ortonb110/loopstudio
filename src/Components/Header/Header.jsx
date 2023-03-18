@@ -10,7 +10,7 @@ const Header = () => {
         document.body.classList.toggle("lock-scroll")
     }
     return( 
-        <header className={`bg-heroMobile md:bg-heroDesktop md:h-[75rem] h-screen bg-center  bg-cover  md:bg-fixed bg-no-repeat`}>
+        <header className={`bg-heroMobile md:bg-heroDesktop md:h-[65rem] h-screen 2xl:bg-cover bg-fit  md:bg-fixed bg-no-repeat`}>
             <Navbar openMenuHandler={openMenuHandler} openMenu={openMenu}/>
             <Hero/>
         </header>
