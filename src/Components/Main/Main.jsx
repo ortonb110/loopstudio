@@ -27,41 +27,49 @@ const cardObject = [
     title: "deep earth",
     imageMobile: earthMobile,
     imageDesktop: earthDesktop,
+    alt: "Planet earth"
   },
   {
     title: "night arcade",
     imageMobile: nightMobile,
     imageDesktop: nightDesktop,
+    alt: "Night of games"
   },
   {
     title: "soccer team vr",
     imageMobile: soccerMobile,
     imageDesktop: soccerDesktop,
+    alt: "A football player on a field"
   },
   {
     title: "the grid",
     imageMobile: gridMobile,
     imageDesktop: girdDesktop,
+    alt: "A motor sport vehicle"
   },
   {
     title: "from up above vr",
     imageMobile: aboveMobile,
     imageDesktop: aboveDesktop,
+    alt: "A picture of roads taken from above"
   },
   {
     title: "pocket borealis",
     imageMobile: pocketMobile,
     imageDesktop: pocketDesktop,
+    alt: "A beautiful evening stars in the sky"
   },
   {
     title: "the curiosity",
     imageMobile: curiosityMobile,
     imageDesktop: curiosityDesktop,
+    alt: "A space hover vehicle"
   },
   {
     title: "make it fisheye",
     imageMobile: fisheyeMobile,
     imageDesktop: fisheyeDesktop,
+    alt: "A fisheye picture of the community"
   },
 ];
 
@@ -78,8 +86,8 @@ const Main = () => {
           />
         </picture>
         <div className=" xl:relative md:text-center xl:text-start">
-          <div className="xl:absolute bottom-0 left-[-15rem] bg-white p-[4.8rem] xl:p-0 xl:pt-[9.6rem] xl:pl-[9.6rem]  text-center xl:text-start">
-            <h2 className="uppercase text-[3.2rem] w-[27.9rem] md:w-[50rem] xl:w-fit mx-auto xl:mx-0 md:text-[4.8rem] leading-[3.2rem] md:leading-[4.8rem] mb-[2.5rem]">
+          <div className="xl:absolute xl:w-[44.5rem] xl:h-[31.7rem] bottom-0 left-[-15rem] bg-white p-[4.8rem] xl:p-0 xl:pt-[9.6rem] xl:pl-[9.6rem]  text-center xl:text-start">
+            <h2 className="uppercase text-[3.2rem] w-[27.9rem] md:w-[50rem] mx-auto xl:mx-0 md:text-[4.8rem] leading-[3.2rem] md:leading-[4.8rem] mb-[2.5rem]">
               the leader in interactive vr
             </h2>
             <p className='text-[1.5rem] font-["Alata"] text-darkGray leading-[2.5rem] md:leading-[2rem] w-[27.9rem] mx-auto xl:mx-0 md:w-[44.5rem]'>
@@ -93,7 +101,7 @@ const Main = () => {
       </article>
       <section className=" px-[2.4rem] md:px-[6rem] lg:px-[10rem] xl:px-[16.4rem] md:static pb-[3.4rem] md:pb-0 md:mb-[18.4rem] relative">
         <div className="flex justify-between mb-[8rem] items-center">
-          <h3 className="text-[3.2rem] uppercase leading-[3.2rem]">
+          <h3 className="text-[3.2rem] md:text-[4.8rem] uppercase leading-[3.2rem]">
             our creations
           </h3>
           <Button

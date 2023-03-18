@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <h2 align="center">Loop Studio Landing Page</h2>
+  <p align="center">
+    <a href="https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw"><strong>Frontend Mentor Challenge</strong></a>
+    <br />
+    <br />
+    <a href="https://ortonb110.github.io/loopstudio/">View Demo</a>
+    ·
+    <a href="https://github.com/ortonb110/loopstudio/issues" target="_blank">Report Bug</a>
+    ·
+    <a href="https://github.com/ortonb110/loopstudio/issues" target="_blank">Request Feature</a>
+  </p>
+</div>
 
-In the project directory, you can run:
+<!-- Bagdes -->
+<div align="center">
+  <!-- Profile -->
+  <a href="https://www.frontendmentor.io/profile/ortonb110">
+    <img src="https://img.shields.io/badge/Profile-Bright%20Orton-brightgreen" alt="Orton Profile">
+  </a>
+  <!-- Status -->
+    <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a>
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="center">
 
-### `npm test`
+![](./src/Assets/images/Screenshot.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+This is a solution to the [Loop Studio Landing Page on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 align="center">Links</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [Loop Studio Landing Page(React + Tailwind) | Frontend Mentor](https://www.frontendmentor.io/solutions/loopstudios-landing-page-cRKyFhhvQ9)
+- Live Site URL: [https://ortonb110.github.io/loopstudio/](https://ortonb110.github.io/loopstudio/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## Table of contents
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Overview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### The challenge
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Your users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+  The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.
+
+## My process
+
+### Built with
+
+<!-- Bagdes -->
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- React
+- React Hooks (useState, useEffect)
+- Tailwind CSS
+- Semantic HTML5 markup
+- API
+- Grid Layout
+
+### Useful resources
+
+- [React documentation](https://reactjs.org/)
+- [Forwarding Refs in React](https://reactjs.org/docs/forwarding-refs.html)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Author
+
+- Frontend Mentor - [@ortonbright](https://www.frontendmentor.io/profile/ortonb110)
+
+## Acknowledgments
+
+This project uses [npm](https://www.npmjs.com/).
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
