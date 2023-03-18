@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/loopstudio/static/css/main.4489e608.css",
+    "main.js": "/loopstudio/static/js/main.455b9e16.js",
+    "static/js/787.e2bce2fa.chunk.js": "/loopstudio/static/js/787.e2bce2fa.chunk.js",
+    "static/media/image-hero.jpg": "/loopstudio/static/media/image-hero.3de81110dee4f75f44f9.jpg",
+    "static/media/hero.jpg": "/loopstudio/static/media/hero.9b5aacead42e955824d3.jpg",
+    "static/media/image-from-above.jpg": "/loopstudio/static/media/image-from-above.f316f3f3afc353415f71.jpg",
+    "static/media/image-interactive.jpg": "/loopstudio/static/media/image-interactive.d6a3949b27bb7a0c79c6.jpg",
+    "static/media/image-curiosity.jpg": "/loopstudio/static/media/image-curiosity.7f14665a1469d012697f.jpg",
+    "static/media/image-soccer-team.jpg": "/loopstudio/static/media/image-soccer-team.18a63d8df06f1baa727f.jpg",
+    "static/media/image-night-arcade.jpg": "/loopstudio/static/media/image-night-arcade.a4f25d3b0c5db392403a.jpg",
+    "static/media/image-deep-earth.jpg": "/loopstudio/static/media/image-deep-earth.2a157951527da6e48ac5.jpg",
+    "static/media/image-grid.jpg": "/loopstudio/static/media/image-grid.a8ce4f2b638181fb6920.jpg",
+    "static/media/image-fisheye.jpg": "/loopstudio/static/media/image-fisheye.ff97b54ec44101e44215.jpg",
+    "static/media/image-pocket-borealis.jpg": "/loopstudio/static/media/image-pocket-borealis.0b89db1f6a9c0e56dcfd.jpg",
+    "static/media/logo.svg": "/loopstudio/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
+    "static/media/icon-instagram.svg": "/loopstudio/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "static/media/icon-pinterest.svg": "/loopstudio/static/media/icon-pinterest.61a3584463b61d0f0d6bc14bc5d1e40a.svg",
+    "index.html": "/loopstudio/index.html",
+    "static/media/icon-twitter.svg": "/loopstudio/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "static/media/icon-facebook.svg": "/loopstudio/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "main.4489e608.css.map": "/loopstudio/static/css/main.4489e608.css.map",
+    "main.455b9e16.js.map": "/loopstudio/static/js/main.455b9e16.js.map",
+    "787.e2bce2fa.chunk.js.map": "/loopstudio/static/js/787.e2bce2fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4489e608.css",
+    "static/js/main.455b9e16.js"
+  ]
+}
