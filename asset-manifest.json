@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loopstudio/static/css/main.4489e608.css",
-    "main.js": "/loopstudio/static/js/main.2135ecf4.js",
+    "main.css": "/loopstudio/static/css/main.6011a63d.css",
+    "main.js": "/loopstudio/static/js/main.3de9615a.js",
     "static/js/787.e2bce2fa.chunk.js": "/loopstudio/static/js/787.e2bce2fa.chunk.js",
     "static/media/image-hero.jpg": "/loopstudio/static/media/image-hero.3de81110dee4f75f44f9.jpg",
     "static/media/hero.jpg": "/loopstudio/static/media/hero.9b5aacead42e955824d3.jpg",
@@ -20,12 +20,12 @@
     "index.html": "/loopstudio/index.html",
     "static/media/icon-twitter.svg": "/loopstudio/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
     "static/media/icon-facebook.svg": "/loopstudio/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
-    "main.4489e608.css.map": "/loopstudio/static/css/main.4489e608.css.map",
-    "main.2135ecf4.js.map": "/loopstudio/static/js/main.2135ecf4.js.map",
+    "main.6011a63d.css.map": "/loopstudio/static/css/main.6011a63d.css.map",
+    "main.3de9615a.js.map": "/loopstudio/static/js/main.3de9615a.js.map",
     "787.e2bce2fa.chunk.js.map": "/loopstudio/static/js/787.e2bce2fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4489e608.css",
-    "static/js/main.2135ecf4.js"
+    "static/css/main.6011a63d.css",
+    "static/js/main.3de9615a.js"
   ]
 }
